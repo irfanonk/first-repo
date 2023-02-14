@@ -1,0 +1,27 @@
+body {
+  background: purple;
+  color: aliceblue;
+}
+.header-2 {
+  color: aquamarine;
+  font-size: 40px;
+}
+
+.first-btn {
+  background: red;
+}
+.second-btn {
+  background: rgb(0, 255, 8);
+}
+.btn {
+  font-size: 25px;
+  border-radius: 20px;
+  padding: 20px;
+}
+.buttons-div {
+  background-color: burlywood;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
